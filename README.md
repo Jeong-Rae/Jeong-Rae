@@ -1,7 +1,7 @@
 ## Backend 서버 
 
 [![Jeong-Rae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Rae&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Rae&layout=compact&custom_title='주로 사용한 언어')
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Rae&layout=compact&custom_title="로 사용한 언어")
 <!--
 **Jeong-Rae/Jeong-Rae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
