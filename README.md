@@ -7,7 +7,7 @@
 ### tech stack
 * * *
 
-[![Jeong-Rae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Rae&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)  
+[![Jeong-Rae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Rae&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Rae&layout=compact)
 <!--
 **Jeong-Rae/Jeong-Rae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
