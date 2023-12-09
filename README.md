@@ -23,7 +23,7 @@
 ## AWARD
 | 연도 | 대회 | 수상 | 역할 |
 | :--: | :--: | :--: | :--: |
-| 2023 | [세종대학교 IT 창업 창업기획 컨퍼런스](https://github.com/coffee-tree) | 최우수상 | Kafka Cluster 설계 및 구축 & YOLO 탐지 모델 학습|
+| 2023 | [세종대학교 IT 창업 창업기획 컨퍼런스](https://github.com/coffee-tree) | 최우수상 | Kafka Cluster 설계 및 구축|
 
 ## PS
 
