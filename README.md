@@ -18,10 +18,6 @@
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)   
 ![42](https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white)
 
-## COMMIT
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Rae)](https://github.com/anuraghazra/github-readme-stats)
-
 ## AWARD
 | 연도 | 대회 | 수상 | 역할 |
 | :--: | :--: | :--: | :--: |
@@ -33,3 +29,8 @@
 ## PS
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkwjdfo)](https://solved.ac/kkwjdfo/)
+
+
+## COMMIT
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Rae)](https://github.com/anuraghazra/github-readme-stats)
