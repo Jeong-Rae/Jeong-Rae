@@ -3,6 +3,7 @@
 
 ## ME
 [![Velog](https://img.shields.io/badge/jrjr519-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jrjr519/series)
+![Gmail](https://img.shields.io/badge/jr-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Gmail](https://img.shields.io/badge/kkwjdfo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## TECH STACK
