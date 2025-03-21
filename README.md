@@ -7,7 +7,7 @@
 ![Gmail](https://img.shields.io/badge/jr-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Gmail](https://img.shields.io/badge/kkwjdfo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-## TECH STACK
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -23,7 +23,7 @@
 - [@toss/es-toolkit: uniqWith](https://github.com/toss/es-toolkit/pull/1066)
 - [@Moment/KeepYourCost](https://github.com/KeepYourCost)
 
-## AWARD
+## Award
 - 2024 세종대학교 IT 창업 경진대회 2st  
   > RAG 기반 기업 맞춤형 문서 관리 시스템
 
