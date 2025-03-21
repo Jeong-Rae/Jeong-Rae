@@ -3,7 +3,7 @@
 ### 기술을 통해 사용자 경험을 한층 더 간편하게 만드는 것에 관심이 있습니다
 
 ## Contact
-[![Velog](https://img.shields.io/badge/jrjr519-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jrjr519/series)
+[![Velog](https://img.shields.io/badge/jrjr519-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jrjr519/posts)
 ![Gmail](https://img.shields.io/badge/jr-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Gmail](https://img.shields.io/badge/kkwjdfo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
