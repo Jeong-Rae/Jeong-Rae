@@ -21,6 +21,7 @@
 
 ## OSS Contributions
 - [@toss/es-toolkit: uniqWith](https://github.com/toss/es-toolkit/pull/1066)
+- [@toss/es-toolkit: countBy](https://github.com/toss/es-toolkit/pull/1071)
 - [@Moment/KeepYourCost](https://github.com/KeepYourCost)
 
 ## Award
