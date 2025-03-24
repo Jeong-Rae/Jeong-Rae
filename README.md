@@ -23,6 +23,7 @@
 - [@toss/es-toolkit: uniqWith](https://github.com/toss/es-toolkit/pull/1066)
 - [@toss/es-toolkit: countBy](https://github.com/toss/es-toolkit/pull/1071)
 - [@Moment/KeepYourCost](https://github.com/KeepYourCost)
+- [API2NotionSync](https://github.com/Jeong-Rae/API2NotionSync)
 
 ## Award
 - 2024 세종대학교 IT 창업 경진대회 2st  
