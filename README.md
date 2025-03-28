@@ -7,18 +7,6 @@
 ![Gmail](https://img.shields.io/badge/jr-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Gmail](https://img.shields.io/badge/kkwjdfo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-## Tech Stack
-
-![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)   
-![MariaDB](https://img.shields.io/badge/MariaDB-1F305F?style=for-the-badge&logo=mariadbfoundation&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)   
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)   
-![42](https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white)
-
 ## OSS Contributions
 - [@toss/es-toolkit: uniqWith](https://github.com/toss/es-toolkit/pull/1066)
 - [@toss/es-toolkit: countBy](https://github.com/toss/es-toolkit/pull/1071)
