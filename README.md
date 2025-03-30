@@ -13,6 +13,14 @@
 - [@Moment/KeepYourCost](https://github.com/KeepYourCost)
 - [API2NotionSync](https://github.com/Jeong-Rae/API2NotionSync)
 
+## Expreience
+- kakao goormton univ
+  - 
+- kakao goormton cloude native
+  - 최우수 수료
+- 42 서울 10기
+- 세종대학교 Interface
+
 ## Award
 - 2024 세종대학교 IT 창업 경진대회 2st  
   > RAG 기반 기업 맞춤형 문서 관리 시스템
