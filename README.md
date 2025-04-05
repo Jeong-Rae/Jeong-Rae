@@ -8,18 +8,14 @@
 ![Gmail](https://img.shields.io/badge/kkwjdfo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## OSS Contributions
-- [@toss/es-toolkit: uniqWith](https://github.com/toss/es-toolkit/pull/1066)
-- [@toss/es-toolkit: countBy](https://github.com/toss/es-toolkit/pull/1071)
+- [@toss/es-toolkit]([https://github.com/toss/es-toolkit/pull/1066](https://github.com/toss/es-toolkit/pulls?q=+is%3Apr+author%3AJeong-Rae+))
 - [NRestDocs](https://github.com/Jeong-Rae/NRestDocs)
 - [@Moment/KeepYourCost](https://github.com/KeepYourCost)
 - [API2NotionSync](https://github.com/Jeong-Rae/API2NotionSync)
 
-
 ## Expreience
 - kakao goormton univ
-  - 
 - kakao goormton cloude native
-  - 최우수 수료
 - 42 서울 10기
 - 세종대학교 Interface
 
