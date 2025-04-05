@@ -8,7 +8,7 @@
 ![Gmail](https://img.shields.io/badge/kkwjdfo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## OSS Contributions
-- [@toss/es-toolkit]([https://github.com/toss/es-toolkit/pull/1066](https://github.com/toss/es-toolkit/pulls?q=+is%3Apr+author%3AJeong-Rae+))
+- [@toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=+is%3Apr+author%3AJeong-Rae+)
 - [NRestDocs](https://github.com/Jeong-Rae/NRestDocs)
 - [@Moment/KeepYourCost](https://github.com/KeepYourCost)
 - [API2NotionSync](https://github.com/Jeong-Rae/API2NotionSync)
